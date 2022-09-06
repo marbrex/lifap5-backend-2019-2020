@@ -64,3 +64,5 @@ node_modules/
 NOTES.md
 static/client.zip
 .vscode/
+
+.obsidian/
